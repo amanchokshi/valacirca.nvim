@@ -41,6 +41,8 @@ return {
 					-- To organize the imports.
 					"ruff_organize_imports",
 				},
+				bash = { "beautysh", "shellcheck" },
+				latex = { "latexindent" },
 			},
 		},
 	},
